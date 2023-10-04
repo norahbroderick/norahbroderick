@@ -2,6 +2,11 @@
 
 <!--
 **norahbroderick/norahbroderick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😀 My name is Noah broderick
+- 📚 I am a student at Walpole High school
+-🛍 I like to shop in my free time
+-🥎 I play competitive softball
+-👩 My pronouns are she/her
 
 Here are some ideas to get you started:
 

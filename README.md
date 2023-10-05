@@ -8,7 +8,7 @@
 
 ###code.orggamelab
 
-[Robot Face](https://studio.code.org/projects/gamelab/k0KA2f5BfzvIpybjynsNGNkw3b43Ou6uOCA46b0CDe8))
+[Robot Face](https://studio.code.org/projects/gamelab/k0KA2f5BfzvIpybjynsNGNkw3b43Ou6uOCA46b0CDe8)
 >
 [Captioned Scenes](https://studio.code.org/projects/gamelab/Jjb4S08k_CvJo_Y66DWMAxFZtrweTI8BvjW15BIU0Zs)
 >

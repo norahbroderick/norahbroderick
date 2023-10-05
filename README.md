@@ -10,7 +10,7 @@
 
 - 👩 My pronouns are she/her
 
-[code.orggamelab](https://studio.code.org/home)
+[code.org GameLab](https://studio.code.org/home)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 [Robot Face](https://studio.code.org/projects/gamelab/k0KA2f5BfzvIpybjynsNGNkw3b43Ou6uOCA46b0CDe8)
 

@@ -1,5 +1,6 @@
 ### Hi there 👋
-![octocat-1696335483949](https://github.com/norahbroderick/norahbroderick/assets/146837143/5d6f87d1-bfe6-4b93-9d58-7eba47380c44)
+![octocatreal](https://github.com/norahbroderick/norahbroderick/assets/146837143/f323ffbf-814f-42d5-9c42-5ea3ec572a83)
+
 - 😀 My name is Norah broderick
   
 - 📚 I am a student at Walpole High school

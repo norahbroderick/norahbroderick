@@ -7,7 +7,7 @@
 -👩 My pronouns are she/her
 
 ###code.orggamelab
-[Robot Face](https://joannereuther.github.io/RobotFace/)
+[Robot Face](https://studio.code.org/projects/gamelab/k0KA2f5BfzvIpybjynsNGNkw3b43Ou6uOCA46b0CDe8))
 >
-[Captioned Scenes]([https://studio.code.org/projects/gamelab/C6EA16hmGgb8blQpkuv5XEV2jWf_16vNYOCsbSC6Qog](https://studio.code.org/s/csd3-2023/lessons/11/levels/5)https://studio.code.org/s/csd3-2023/lessons/11/levels/5)
+[Captioned Scenes](https://studio.code.org/projects/gamelab/Jjb4S08k_CvJo_Y66DWMAxFZtrweTI8BvjW15BIU0Zs)https://studio.code.org/projects/gamelab/Jjb4S08k_CvJo_Y66DWMAxFZtrweTI8BvjW15BIU0Zs)
 >

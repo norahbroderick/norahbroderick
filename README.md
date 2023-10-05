@@ -7,8 +7,8 @@
 -👩 My pronouns are she/her
 
 ###code.orggamelab
-In this project I used shapes, variables, and randomness to create a changng robot face
+> In this project I used shapes, variables, and randomness to create a changng robot face
 [Robot Face](https://studio.code.org/projects/gamelab/k0KA2f5BfzvIpybjynsNGNkw3b43Ou6uOCA46b0CDe8)
->
+> In this project my partner and I used sprites, shapes, and variables to create an apple picking scene.
 [Captioned Scenes](https://studio.code.org/projects/gamelab/Jjb4S08k_CvJo_Y66DWMAxFZtrweTI8BvjW15BIU0Zs)
->
+

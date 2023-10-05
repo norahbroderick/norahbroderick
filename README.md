@@ -1,5 +1,5 @@
 ### Hi there 👋
-![octocatsmall](https://github.com/norahbroderick/norahbroderick/assets/146837143/3fc60a69-d063-40b9-89e0-616aff10aeef)
+![octocat-1696335483949](https://github.com/norahbroderick/norahbroderick/assets/146837143/5d6f87d1-bfe6-4b93-9d58-7eba47380c44)
 
 <!--
 **norahbroderick/norahbroderick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

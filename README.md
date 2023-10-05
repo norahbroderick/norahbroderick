@@ -17,3 +17,13 @@
 > A creative project of this unit. Using the problem-solving process as a model.
 [Captioned Scenes](https://studio.code.org/projects/gamelab/Jjb4S08k_CvJo_Y66DWMAxFZtrweTI8BvjW15BIU0Zs)
 
+[Animation]
+>
+[Interactive Card]
+>
+[Side Scroller]
+>
+[Flyer Game]
+>
+[Project - Design a Game]
+>

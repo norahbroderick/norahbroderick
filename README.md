@@ -4,11 +4,11 @@
   
 - 📚 I am a student at Walpole High school
   
--🛍 I like to shop in my free time
+- 🛍 I like to shop in my free time
 
--🥎 I play competitive softball
+- 🥎 I play competitive softball
 
--👩 My pronouns are she/her
+- 👩 My pronouns are she/her
 
 [code.orggamelab](https://studio.code.org/home)
 > In this project I used shapes, variables, and randomness to create a changng robot face

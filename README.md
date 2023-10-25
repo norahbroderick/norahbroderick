@@ -19,8 +19,8 @@
 [Captioned Scenes](https://studio.code.org/projects/gamelab/Jjb4S08k_CvJo_Y66DWMAxFZtrweTI8BvjW15BIU0Zs)
 
 [Animation]
->
-[Interactive Card]
+>A project where I used conditionals, counter patterns, variables, mouse input, and key input to create an interactive scene
+[Interactive Card](https://studio.code.org/projects/gamelab/VUgv9hk7spzcsp6_7GI4HOncAF1WdefaNqHdBOPI4WA/view)
 >
 [Side Scroller]
 >

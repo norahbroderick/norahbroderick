@@ -23,8 +23,8 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/VUgv9hk7spzcsp6_7GI4HOncAF1WdefaNqHdBOPI4WA/view)
 >
 [Side Scroller]
->
-[Flyer Game]
+>A fun game where I used conditionals and mny variables to produce a game where the sprite is going for the candy but is being stopped by the swords.
+[Flyer Game](https://studio.code.org/projects/gamelab/VhSQugdqMOiiSVgoo4fRzyG9sWFwapv3GeYIF3NgcKg)
 >
 [Project - Design a Game]
 >

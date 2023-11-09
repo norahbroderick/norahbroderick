@@ -21,10 +21,12 @@
 [Animation]
 >An interactive project where I used conditionals, counter patterns, variables, mouse input, and key input to create an interactive scene
 [Interactive Card](https://studio.code.org/projects/gamelab/VUgv9hk7spzcsp6_7GI4HOncAF1WdefaNqHdBOPI4WA/view)
+
 >A game where the lumberjack is trying to cut down the tree but the bear is in the way
 [Side Scroller](https://studio.code.org/projects/gamelab/VgRWJpQ2KGBekNAlhivC816k3Njc50ayzj0N8gBi2QQ)
+
 >A fun game where I used conditionals and mny variables to produce a game where the sprite is going for the candy but is being stopped by the swords.
 [Flyer Game](https://studio.code.org/projects/gamelab/VhSQugdqMOiiSVgoo4fRzyG9sWFwapv3GeYIF3NgcKg)
->
+
 [Project - Design a Game]
 >

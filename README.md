@@ -2,15 +2,12 @@
 ![octocatreal](https://github.com/norahbroderick/norahbroderick/assets/146837143/f323ffbf-814f-42d5-9c42-5ea3ec572a83)
 
 - 😀 My name is Norah broderick
-  
 - 📚 I am a student at Walpole High school
-  
 - 🛍 I like to shop in my free time
-
 - 🥎 I play competitive softball
-
 - 👩 My pronouns are she/her
 
+##code.org GameLab
 [Code.org GameLab](https://studio.code.org/home)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
@@ -31,4 +28,5 @@
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)
 
+##MIT App Inventor
 

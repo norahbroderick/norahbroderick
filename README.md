@@ -25,7 +25,7 @@
 >A fun game where I used conditionals and mny variables to produce a game where the sprite is going for the candy but is being stopped by the swords.
 
 [Flyer Game](https://studio.code.org/projects/gamelab/VhSQugdqMOiiSVgoo4fRzyG9sWFwapv3GeYIF3NgcKg)
->A game where the pig is trying to eat the other sprites while also trying to stay aive and not fall off the screen.
+>A game where the pig is trying to eat the other sprites while also trying to stay alive and not fall off the screen.
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)
 

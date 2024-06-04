@@ -43,8 +43,6 @@
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=1287bc98-02ab-4f3e-8511-013020cb5d56)
 > In this app you can press the different buttons to create sounds.
 
-[Find the Gold](
-
 ## CMU Academy 
 [Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/cornflowerBlueGoldfish2895)
 

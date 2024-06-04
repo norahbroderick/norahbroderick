@@ -30,7 +30,8 @@
 [Platform Jumper](https://studio.code.org/projects/gamelab/N73KkAdFF-w2K5i-zDfa9hNOck2ufrpTZ10h0H3AxtE)
 >In this project the alien is jumping trying to get the strawberrys and cake.
 
-[Project - Design a Game]([https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k(https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)
+[Final Game Project](https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)
+> In this project the pig is trying to get the trophies and the stars.
 
 ## MIT App Inventor
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=6d67d5f3-3283-4d09-8087-c3b78c22d782)

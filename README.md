@@ -44,3 +44,20 @@
 > In this app you can press the different buttons to create sounds.
 
 [Find the Gold](
+
+## CMU Academy 
+[Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/cornflowerBlueGoldfish2895)
+
+[Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/oliveDrabPuppy2173)
+> In this project the lion gets angry
+
+[Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/mistyRoseBird7640)
+>I this project the pink bids eyes follow the mouse.
+
+[Unit 4 Creative Task](https://academy.cs.cmu.edu/sharing/gainsboroSquirrel9364)
+>In this project if you click on the string it plays music
+
+[Unit 5 Creative Task](https://academy.cs.cmu.edu/sharing/azureWolf1246)
+>In this project if you press certain keys the ghost moves.
+
+

@@ -27,8 +27,19 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/VhSQugdqMOiiSVgoo4fRzyG9sWFwapv3GeYIF3NgcKg)
 >A game where the pig is trying to eat the other sprites while also trying to stay alive and not fall off the screen.
 
-[Project - Design a Game](https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)
+[Platform Jumper](https://studio.code.org/projects/gamelab/N73KkAdFF-w2K5i-zDfa9hNOck2ufrpTZ10h0H3AxtE)
+>In this project the alien is jumping trying to get the strawberrys and cake.
+
+[Project - Design a Game]([https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)](https://studio.code.org/projects/gamelab/oSU5x_LJZeSqB_9Xn86q45W3n1a1UVWEZM-jwygBl9k)
 
 ## MIT App Inventor
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=6d67d5f3-3283-4d09-8087-c3b78c22d782)
 > In this app it was my first app with emojis.
+
+[My piano](https://gallery.appinventor.mit.edu/?galleryid=29fd8bfc-d569-4095-b2f0-7a38a9d96987)
+> In this app I created a piano that makes different noises.
+
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=1287bc98-02ab-4f3e-8511-013020cb5d56)
+> In this app you can press the different buttons to create sounds.
+
+[Find the Gold](
